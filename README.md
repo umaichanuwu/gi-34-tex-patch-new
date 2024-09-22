@@ -1,0 +1,1 @@
+original update file for 3.2 and 3.4 was taken down in mihoyo servers, therefore there may be missing files, files that are here but aren't new. The missing files will appear in the following update patches.
